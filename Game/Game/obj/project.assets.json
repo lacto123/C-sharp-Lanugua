@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\C-sharp-Lanugua\\Game\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\새 폴더\\Game\\Game\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\C-sharp-Lanugua\\Game\\Game\\Game.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\새 폴더\\Game\\Game\\Game.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\C-sharp-Lanugua\\Game\\Game\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\새 폴더\\Game\\Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
